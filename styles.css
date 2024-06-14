@@ -1,0 +1,59 @@
+body{background-image:url(https://img.freepik.com/free-photo/texture-treble-clef-dark-background-isolated-generative-ai_169016-29581.jpg) ;
+  background-repeat: no-repeat;
+background-size:1500px;
+font-family: sans-serif;
+padding: 20px;}
+
+.one{text-align: center;
+}
+
+.menu{background-color: antiquewhite;
+width: 80%;
+height: 600px;
+margin: auto;
+padding-top:10px ;
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+max-width: 650px;
+}
+
+.p{font-size: 40px;
+font-style: italic;}
+hr{height: 2px;
+border-color: rgb(140, 194, 176);
+background-color: rgb(140, 194, 176);}
+
+.item p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;}
+
+  .song {
+    text-align: left;
+    width: 75%;
+    font-family: georiga;
+  }
+  
+  .composer {
+    text-align: right;
+    width: 25%;
+    font-family: georgia;
+  }
+  h2,footer{text-align: center;}
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: brown;
+  }
